@@ -66,4 +66,4 @@ void display() {        // prodecur untuk menampilkan hasil
 		display();         // memanggil procedur display()
 
 		return 0;
-	}
+}
